@@ -44,9 +44,11 @@ Contributions are welcome. If you have an idea for an improvement or find a bug,
 This project is open-source and available under the MIT License.
 
 What This Means
+
 Freedom: You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software.
 Attribution: Any use of the software, modified or unmodified, must include proper attribution to the original author and source.
 Liability: The software is provided "as is", without warranty of any kind. In no event shall the authors or copyright holders be held liable for any claim, damages, or other liabilities.
+
 For Users
 If you're using this project, you're free to:
 
