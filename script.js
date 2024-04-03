@@ -4,7 +4,6 @@ function showCalendar() {
         // Use a simple function to generate the calendar (placeholder)
         const calendarOutput = document.getElementById('calendarOutput');
         calendarOutput.innerHTML = `Calendar for ${year}`;
-        // In a real application, you might generate the calendar here
     }
 }
 
@@ -29,6 +28,3 @@ function checkNote() {
         }
     }
 }
-
-// Add an event listener to check notes. This function is not directly linked in the HTML example above,
-// but could be invoked through another UI element or process.
