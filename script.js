@@ -3,7 +3,7 @@ function showCalendar() {
     if (year) {
         // Use a simple function to generate the calendar (placeholder)
         const calendarOutput = document.getElementById('calendarOutput');
-        calendarOutput.innerHTML = `Calendar for ${year} (Placeholder)`;
+        calendarOutput.innerHTML = `Calendar for ${year}`;
         // In a real application, you might generate the calendar here
     }
 }
