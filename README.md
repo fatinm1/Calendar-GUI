@@ -39,3 +39,6 @@ To run this application, you will need Python installed on your computer. Python
 
 ## Contributions
 Contributions are welcome. If you have an idea for an improvement or find a bug, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
