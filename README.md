@@ -36,14 +36,18 @@ Liability: The software is provided "as is", without warranty of any kind. In no
 
 liable for any claim, damages, or other liabilities.
 
-For Users
+## For Users
 
 If you're using this project, you're free to:
 
 Integrate it into your own projects
+
 Modify the source code
+
 Share the project within your organization or publicly
+
 Use the project for commercial purposes
+
 All we ask is that you include a copy of the license in your project or documentation to comply with the terms of the MIT License.
 
 ## License File
