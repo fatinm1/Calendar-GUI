@@ -40,13 +40,13 @@ liable for any claim, damages, or other liabilities.
 
 If you're using this project, you're free to:
 
-Integrate it into your own projects
-
-Modify the source code
-
-Share the project within your organization or publicly
-
-Use the project for commercial purposes
+  - Integrate it into your own projects
+  
+  - Modify the source code
+  
+  - Share the project within your organization or publicly
+  
+  - Use the project for commercial purposes
 
 All we ask is that you include a copy of the license in your project or documentation to comply with the terms of the MIT License.
 
