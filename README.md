@@ -1,3 +1,5 @@
+## Calander and Notes Application
+
 ## Description
 This application is a simple GUI-based calendar that allows users to view a full year's calendar and add notes to specific dates. Built with Python's Tkinter library, it provides a user-friendly interface to interact with the calendar and store important reminders.
 
