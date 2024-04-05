@@ -55,4 +55,4 @@ You can find a copy of the MIT License in the LICENSE file in this repository. T
 
 We recommend reading the LICENSE file for the exact legal terms that apply to the software. If you have any questions or concerns about the license and what it permits, we encourage open discussion through issues in this repository or direct contact with the project maintainers.
 
-Support If you have any questions or feedback, please reach out to Fatin at fatinm1@umbc.edu or open an issue in the repository
+Support If you have any questions or feedback, please reach out to Fatin at fatinm1@umbc.edu or open an issue in the repository.
